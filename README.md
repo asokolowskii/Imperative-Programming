@@ -47,7 +47,6 @@ By completing this course, students will be able to:
 - 📗 *The C Programming Language* – Kernighan & Ritchie  
 - 📘 *C Programming: A Modern Approach* – K. N. King  
 - 📙 *C Primer Plus* – Stephen Prata  
-- 🔗 ISO C Standard: [ISO/IEC 9899:2017 (C17)](http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
 
 ---
 
